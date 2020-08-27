@@ -1,0 +1,25 @@
+{
+  "firstname": "Roger",
+  "lastname": "Moore",
+  "age": 89,
+  "isAlive": false,
+  "address": {
+    "streetAddress": "1 Main Street",
+    "city": "London",
+    "postcode": "N1 3XX"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "+61 03 1234 5678"
+    },
+    {
+      "type": "mobile",
+      "number": "+61 0405 111 222"
+    },
+    {
+      "type": "work",
+      "number": "+82 10 2766 5237"
+    }
+  ]
+}
